@@ -231,3 +231,4 @@ _Pvt_Extensions
 .fake/
 /ClientApp/.angular/cache/15.2.7/babel-webpack
 /ClientApp/.angular/cache/15.2.7/angular-webpack/95999d7667a6961d19ae9b4b197a9c07befe33f1
+/ClientApp/.angular/cache/15.2.7/angular-webpack
